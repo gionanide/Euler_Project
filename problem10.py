@@ -7,6 +7,5 @@ for p in range(2, n+1):
             		break
     	else:
         	sum+=p
-		print sum
 print sum
 
