@@ -12,6 +12,8 @@ with open('/home/manos/number','r') as file:
 		x+=1
 		z=0
 		y=2
+#Heuristic solution for this problem starting from the maximum element and find the path checking the specifi element and the 
+#the next one. This is my approach to this problem needing corrections
 sum=int(pyramid[0][0])
 print sum
 startingPosition=0
